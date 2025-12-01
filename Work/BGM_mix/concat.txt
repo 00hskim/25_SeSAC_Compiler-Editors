@@ -1,0 +1,2 @@
+file 'bgm_pad_01.wav'
+file 'bgm_pad_02.wav'

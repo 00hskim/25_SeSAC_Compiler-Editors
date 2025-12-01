@@ -1,0 +1,511 @@
+{
+  "video": {
+    "path": "/home/silab/[King]/_2025_SeSAC_CompilerEditors/Input/Sample.mp4",
+    "duration": 52.167,
+    "fps": 30.0,
+    "orig_duration": 63.867,
+    "logical_duration": 47.42
+  },
+  "shots": {
+    "shot_1": [
+      {
+        "start": 0.0,
+        "end": 21.7,
+        "start_frame": 0,
+        "end_frame": 651,
+        "probability": 0.6217876672744751,
+        "segments": [
+          {
+            "start": 0.0,
+            "end": 7.04,
+            "text": "안녕하세요 저희는 음성 및 장면 분석을 통해 자동으로 편집을 해주는 도구를 개발하였습니다",
+            "language": "",
+            "emotion": "hap",
+            "emotion_score": 0.6602364182472229,
+            "features": {
+              "rms_db": -31.09990692138672,
+              "zcr": 0.0838164592760181,
+              "vad_ratio": 0.7782805429864253,
+              "centroid_hz": 1442.4726783390483,
+              "rolloff_hz": 3081.872171945701,
+              "hf_ratio": 0.10845594853162766,
+              "flatness": 0.015271611511707306,
+              "slope_db_per_khz": -4.024140744750965,
+              "contrast": 20.62720021194243,
+              "bpm_est": 120.0,
+              "tone_tag": "dark",
+              "arrangement_tag": "thin arrangement",
+              "rhythm_tag": "moderate rhythm",
+              "volume_hint": "very gentle background"
+            },
+            "orig_start": 4.96,
+            "orig_end": 12.0
+          },
+          {
+            "start": 7.04,
+            "end": 11.21,
+            "text": "저희는 컷편집 배경음악 동적자막을 자동으로 구성합니다",
+            "language": "",
+            "emotion": "sad",
+            "emotion_score": 0.8798682689666748,
+            "features": {
+              "rms_db": -31.64160919189453,
+              "zcr": 0.0795339336832061,
+              "vad_ratio": 0.8015267175572519,
+              "centroid_hz": 1406.6447401048674,
+              "rolloff_hz": 3069.656488549618,
+              "hf_ratio": 0.117530956864357,
+              "flatness": 0.016859881579875946,
+              "slope_db_per_khz": -3.364529597641743,
+              "contrast": 19.08136633628772,
+              "bpm_est": 120.0,
+              "tone_tag": "dark",
+              "arrangement_tag": "light arrangement",
+              "rhythm_tag": "moderate rhythm",
+              "volume_hint": "very gentle background"
+            },
+            "orig_start": 12.0,
+            "orig_end": 16.17
+          },
+          {
+            "start": 11.21,
+            "end": 16.52,
+            "text": "그러므로 번거로운 영상 편집 시간을 획기적으로 줄일 수 있는 AI를",
+            "language": "",
+            "emotion": "hap",
+            "emotion_score": 0.7009581327438354,
+            "features": {
+              "rms_db": -31.497285842895508,
+              "zcr": 0.07430938903443114,
+              "vad_ratio": 0.8023952095808383,
+              "centroid_hz": 1354.8551309671914,
+              "rolloff_hz": 2906.437125748503,
+              "hf_ratio": 0.09985099732875824,
+              "flatness": 0.01156508270651102,
+              "slope_db_per_khz": -4.147697639870952,
+              "contrast": 20.11241209153062,
+              "bpm_est": 120.0,
+              "tone_tag": "dark",
+              "arrangement_tag": "thin arrangement",
+              "rhythm_tag": "moderate rhythm",
+              "volume_hint": "very gentle background"
+            },
+            "orig_start": 16.17,
+            "orig_end": 21.48
+          },
+          {
+            "start": 16.52,
+            "end": 20.44,
+            "text": "만들었습니다 감사합니다",
+            "language": "",
+            "emotion": "neu",
+            "emotion_score": 0.5797339081764221,
+            "features": {
+              "rms_db": -34.97178649902344,
+              "zcr": 0.05981643800813008,
+              "vad_ratio": 1.0,
+              "centroid_hz": 1161.2126753368877,
+              "rolloff_hz": 2549.098069105691,
+              "hf_ratio": 0.0852358415722847,
+              "flatness": 0.008246730081737041,
+              "slope_db_per_khz": -4.662145967181797,
+              "contrast": 19.99221127839228,
+              "bpm_est": 130.0,
+              "tone_tag": "dark",
+              "arrangement_tag": "thin arrangement",
+              "rhythm_tag": "moderate rhythm",
+              "volume_hint": "very gentle background"
+            },
+            "orig_start": 21.48,
+            "orig_end": 25.4
+          }
+        ]
+      }
+    ],
+    "shot_2": [
+      {
+        "start": 21.7,
+        "end": 52.167,
+        "start_frame": 651,
+        "end_frame": 1565,
+        "probability": 0.0829697996377945,
+        "segments": [
+          {
+            "start": 20.44,
+            "end": 24.22,
+            "text": "야 너 어제 약속 못 온다 했잖아",
+            "language": "",
+            "emotion": "neu",
+            "emotion_score": 0.9776611924171448,
+            "features": {
+              "rms_db": -39.19380569458008,
+              "zcr": 0.06271746980042017,
+              "vad_ratio": 1.0,
+              "centroid_hz": 1160.063968524037,
+              "rolloff_hz": 2564.6008403361343,
+              "hf_ratio": 0.10300321877002716,
+              "flatness": 0.008179310709238052,
+              "slope_db_per_khz": -4.003890499526452,
+              "contrast": 18.120736712253205,
+              "bpm_est": 120.0,
+              "tone_tag": "dark",
+              "arrangement_tag": "light arrangement",
+              "rhythm_tag": "moderate rhythm",
+              "volume_hint": "very gentle background"
+            },
+            "orig_start": 2.0,
+            "orig_end": 5.78
+          },
+          {
+            "start": 24.22,
+            "end": 25.98,
+            "text": "집안에 급한 일이 있다고",
+            "language": "",
+            "emotion": "hap",
+            "emotion_score": 0.9537851214408875,
+            "features": {
+              "rms_db": -31.802860260009766,
+              "zcr": 0.08293805803571429,
+              "vad_ratio": 0.6785714285714286,
+              "centroid_hz": 1435.289310797323,
+              "rolloff_hz": 3089.0066964285716,
+              "hf_ratio": 0.10587100684642792,
+              "flatness": 0.012937257997691631,
+              "slope_db_per_khz": -3.878212716816102,
+              "contrast": 20.438531521704824,
+              "bpm_est": 120.0,
+              "tone_tag": "dark",
+              "arrangement_tag": "light arrangement",
+              "rhythm_tag": "simple rhythm",
+              "volume_hint": "very gentle background"
+            },
+            "orig_start": 5.78,
+            "orig_end": 7.54
+          },
+          {
+            "start": 25.98,
+            "end": 26.88,
+            "text": "근데 이게 뭐야",
+            "language": "",
+            "emotion": "ang",
+            "emotion_score": 0.7394259572029114,
+            "features": {
+              "rms_db": -28.863994598388672,
+              "zcr": 0.06504242995689655,
+              "vad_ratio": 0.9310344827586207,
+              "centroid_hz": 1329.6579276876398,
+              "rolloff_hz": 2818.9655172413795,
+              "hf_ratio": 0.09242875874042511,
+              "flatness": 0.017722710967063904,
+              "slope_db_per_khz": -3.6935770040263343,
+              "contrast": 23.30869840465276,
+              "bpm_est": 120.0,
+              "tone_tag": "dark",
+              "arrangement_tag": "thin arrangement",
+              "rhythm_tag": "simple rhythm",
+              "volume_hint": "very gentle background"
+            },
+            "orig_start": 7.54,
+            "orig_end": 8.44
+          },
+          {
+            "start": 26.88,
+            "end": 30.22,
+            "text": "네 SNS에 어제 네가 올린 사진이잖아",
+            "language": "",
+            "emotion": "sad",
+            "emotion_score": 0.5498886108398438,
+            "features": {
+              "rms_db": -31.175546646118164,
+              "zcr": 0.08428199404761905,
+              "vad_ratio": 0.8,
+              "centroid_hz": 1431.588676790425,
+              "rolloff_hz": 3024.4791666666665,
+              "hf_ratio": 0.10383071005344391,
+              "flatness": 0.015984492376446724,
+              "slope_db_per_khz": -4.355000079868031,
+              "contrast": 20.422842344839324,
+              "bpm_est": 100.0,
+              "tone_tag": "dark",
+              "arrangement_tag": "thin arrangement",
+              "rhythm_tag": "moderate rhythm",
+              "volume_hint": "very gentle background"
+            },
+            "orig_start": 8.44,
+            "orig_end": 11.78
+          },
+          {
+            "start": 30.22,
+            "end": 31.6,
+            "text": "여기서 놀고 있었네",
+            "language": "",
+            "emotion": "hap",
+            "emotion_score": 0.5684643387794495,
+            "features": {
+              "rms_db": -33.53926086425781,
+              "zcr": 0.08571555397727272,
+              "vad_ratio": 0.6136363636363636,
+              "centroid_hz": 1514.7048674758712,
+              "rolloff_hz": 3303.9772727272725,
+              "hf_ratio": 0.1287866234779358,
+              "flatness": 0.026036875322461128,
+              "slope_db_per_khz": -3.394406545182563,
+              "contrast": 18.411616206430878,
+              "bpm_est": 100.0,
+              "tone_tag": "warm",
+              "arrangement_tag": "light arrangement",
+              "rhythm_tag": "simple rhythm",
+              "volume_hint": "very gentle background"
+            },
+            "orig_start": 11.78,
+            "orig_end": 13.16
+          },
+          {
+            "start": 31.6,
+            "end": 33.52,
+            "text": "잠깐만 오해야",
+            "language": "",
+            "emotion": "sad",
+            "emotion_score": 0.8305680155754089,
+            "features": {
+              "rms_db": -33.15044021606445,
+              "zcr": 0.07429879610655737,
+              "vad_ratio": 0.7540983606557377,
+              "centroid_hz": 1304.343663936277,
+              "rolloff_hz": 2830.686475409836,
+              "hf_ratio": 0.09496612101793289,
+              "flatness": 0.011466359719634056,
+              "slope_db_per_khz": -3.8163671728072965,
+              "contrast": 18.09869678434149,
+              "bpm_est": 130.0,
+              "tone_tag": "dark",
+              "arrangement_tag": "light arrangement",
+              "rhythm_tag": "moderate rhythm",
+              "volume_hint": "very gentle background"
+            },
+            "orig_start": 13.16,
+            "orig_end": 15.08
+          },
+          {
+            "start": 33.52,
+            "end": 35.26,
+            "text": "사진 올린 건 맞아",
+            "language": "",
+            "emotion": "hap",
+            "emotion_score": 0.8655480742454529,
+            "features": {
+              "rms_db": -30.324480056762695,
+              "zcr": 0.07355291193181818,
+              "vad_ratio": 0.8545454545454545,
+              "centroid_hz": 1369.0202937213364,
+              "rolloff_hz": 3016.4772727272725,
+              "hf_ratio": 0.12061312049627304,
+              "flatness": 0.013082893565297127,
+              "slope_db_per_khz": -3.1896233901819744,
+              "contrast": 19.95426529993205,
+              "bpm_est": 120.0,
+              "tone_tag": "dark",
+              "arrangement_tag": "light arrangement",
+              "rhythm_tag": "simple rhythm",
+              "volume_hint": "very gentle background"
+            },
+            "orig_start": 15.08,
+            "orig_end": 16.82
+          },
+          {
+            "start": 35.26,
+            "end": 37.88,
+            "text": "봐 어제 급한 일은 이거였어",
+            "language": "",
+            "emotion": "hap",
+            "emotion_score": 0.9664146900177002,
+            "features": {
+              "rms_db": -31.285146713256836,
+              "zcr": 0.06743044969512195,
+              "vad_ratio": 0.7804878048780488,
+              "centroid_hz": 1220.6821790227225,
+              "rolloff_hz": 2592.892530487805,
+              "hf_ratio": 0.08451877534389496,
+              "flatness": 0.009421936236321926,
+              "slope_db_per_khz": -4.588551179593914,
+              "contrast": 19.946676230808738,
+              "bpm_est": 120.0,
+              "tone_tag": "dark",
+              "arrangement_tag": "light arrangement",
+              "rhythm_tag": "moderate rhythm",
+              "volume_hint": "very gentle background"
+            },
+            "orig_start": 16.82,
+            "orig_end": 19.44
+          },
+          {
+            "start": 37.88,
+            "end": 39.72,
+            "text": "이거 해결하고 너무 힘들어서",
+            "language": "",
+            "emotion": "sad",
+            "emotion_score": 0.810135006904602,
+            "features": {
+              "rms_db": -32.06892013549805,
+              "zcr": 0.08134092133620689,
+              "vad_ratio": 0.8448275862068966,
+              "centroid_hz": 1544.8099326697065,
+              "rolloff_hz": 3382.1390086206898,
+              "hf_ratio": 0.12390699982643127,
+              "flatness": 0.01576146110892296,
+              "slope_db_per_khz": -3.4067860651998156,
+              "contrast": 19.491482078065918,
+              "bpm_est": 130.0,
+              "tone_tag": "warm",
+              "arrangement_tag": "light arrangement",
+              "rhythm_tag": "simple rhythm",
+              "volume_hint": "very gentle background"
+            },
+            "orig_start": 19.44,
+            "orig_end": 21.28
+          },
+          {
+            "start": 39.72,
+            "end": 42.18,
+            "text": "잠깐 20분 동안 앉아있다가 들어간 거라고",
+            "language": "",
+            "emotion": "neu",
+            "emotion_score": 0.581618070602417,
+            "features": {
+              "rms_db": -32.00773620605469,
+              "zcr": 0.07378119926948051,
+              "vad_ratio": 0.7272727272727273,
+              "centroid_hz": 1348.850031061178,
+              "rolloff_hz": 2943.9935064935066,
+              "hf_ratio": 0.09181798994541168,
+              "flatness": 0.010712085291743279,
+              "slope_db_per_khz": -4.591834657508228,
+              "contrast": 20.515362199210063,
+              "bpm_est": 130.0,
+              "tone_tag": "dark",
+              "arrangement_tag": "thin arrangement",
+              "rhythm_tag": "simple rhythm",
+              "volume_hint": "very gentle background"
+            },
+            "orig_start": 21.28,
+            "orig_end": 23.74
+          },
+          {
+            "start": 42.18,
+            "end": 44.3,
+            "text": "너 걱정할까 봐 말 안 했어",
+            "language": "",
+            "emotion": "sad",
+            "emotion_score": 0.8994191288948059,
+            "features": {
+              "rms_db": -38.7334098815918,
+              "zcr": 0.04487086054104478,
+              "vad_ratio": 1.0,
+              "centroid_hz": 983.740916744833,
+              "rolloff_hz": 2147.3880597014927,
+              "hf_ratio": 0.06170255318284035,
+              "flatness": 0.00607304135337472,
+              "slope_db_per_khz": -5.144370208984012,
+              "contrast": 19.18313013436064,
+              "bpm_est": 130.0,
+              "tone_tag": "dark",
+              "arrangement_tag": "light arrangement",
+              "rhythm_tag": "simple rhythm",
+              "volume_hint": "very gentle background"
+            },
+            "orig_start": 23.74,
+            "orig_end": 25.86
+          },
+          {
+            "start": 44.3,
+            "end": 46.12,
+            "text": "어? 정말 그런 거였어?",
+            "language": "",
+            "emotion": "neu",
+            "emotion_score": 0.5060489177703857,
+            "features": {
+              "rms_db": -40.70218276977539,
+              "zcr": 0.07144325657894737,
+              "vad_ratio": 1.0,
+              "centroid_hz": 1324.1211003813348,
+              "rolloff_hz": 3064.6929824561403,
+              "hf_ratio": 0.11102806776762009,
+              "flatness": 0.020691288635134697,
+              "slope_db_per_khz": -3.8886849898761313,
+              "contrast": 18.94073695487096,
+              "bpm_est": 100.0,
+              "tone_tag": "dark",
+              "arrangement_tag": "thin arrangement",
+              "rhythm_tag": "simple rhythm",
+              "volume_hint": "very gentle background"
+            },
+            "orig_start": 25.86,
+            "orig_end": 27.68
+          },
+          {
+            "start": 46.12,
+            "end": 47.42,
+            "text": "내가 너무 성급했네",
+            "language": "",
+            "emotion": "sad",
+            "emotion_score": 0.623058021068573,
+            "features": {
+              "rms_db": -39.01339340209961,
+              "zcr": 0.08871236661585366,
+              "vad_ratio": 1.0,
+              "centroid_hz": 1779.9845503026288,
+              "rolloff_hz": 4217.987804878048,
+              "hf_ratio": 0.18957412242889404,
+              "flatness": 0.04099472984671593,
+              "slope_db_per_khz": -2.653593487572219,
+              "contrast": 17.929230410061717,
+              "bpm_est": 130.0,
+              "tone_tag": "warm",
+              "arrangement_tag": "thin arrangement",
+              "rhythm_tag": "simple rhythm",
+              "volume_hint": "very gentle background"
+            },
+            "orig_start": 27.92,
+            "orig_end": 29.22
+          }
+        ]
+      }
+    ]
+  },
+  "transnet": {
+    "threshold": 0.2,
+    "model_device": "cuda"
+  },
+  "whisper": {
+    "full_text": "해봅시다 안녕하세요 저희는 음성 및 장면 분석을 통해 자동으로 편집을 해주는 도구를 개발하였습니다 저희는 컷편집 배경음악 동적자막을 자동으로 구성합니다 그러므로 번거로운 영상 편집 시간을 획기적으로 줄일 수 있는 AI를 만들었습니다 감사합니다 야 너 어제 약속 못 온다 했잖아 집안에 급한 일이 있다고 근데 이게 뭐야 네 SNS에 어제 네가 올린 사진이잖아 여기서 놀고 있었네 잠깐만 오해야 사진 올린 건 맞아 봐 어제 급한 일은 이거였어 이거 해결하고 너무 힘들어서 잠깐 20분 동안 앉아있다가 들어간 거라고 너 걱정할까 봐 말 안 했어 어? 정말 그런 거였어? 내가 너무 성급했네 미안해",
+    "language": "",
+    "num_segments": 17
+  },
+  "hardcut": {
+    "cuts": [
+      [
+        0.0,
+        2.0
+      ],
+      [
+        23.7,
+        31.4
+      ],
+      [
+        61.867,
+        63.867
+      ]
+    ],
+    "keeps": [
+      [
+        2.0,
+        23.7
+      ],
+      [
+        31.4,
+        61.867
+      ]
+    ],
+    "total_duration": 52.167
+  }
+}
