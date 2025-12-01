@@ -128,15 +128,3 @@ git clone https://github.com/_____   # 실제 URL
 cd Edit-Click
 pip install -r requirements.txt
 ```
-
----
-
-# 4. 문의 / 기여 / 협업 🙌
-- Issue → 질문/제안  
-- Pull Request → 환영  
-- 연구/프로젝트 협업 가능  
-
----
-
-# 5. License 📄  
-(예: MIT / Apache 2.0 / GPL 등)
